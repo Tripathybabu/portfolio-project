@@ -11,3 +11,10 @@ This portfolio website was built using HTML, CSS, and JavaScript. It serves as a
 - HTML5
 - CSS3
 - JavaScript
+- React js
+- Node js
+- mongoDB
+- Express.js
+- Bootstrap
+- Material UI
+- Redux
